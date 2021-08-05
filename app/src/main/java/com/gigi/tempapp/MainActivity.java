@@ -13,7 +13,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
 
-    Button btnCalculate;
+    Button btnCalculate,btnSend;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {    //users cannot see the activity
